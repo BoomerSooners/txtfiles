@@ -4,7 +4,7 @@ zip="url.to.wizard"
 
 name="Oaklahoma Sooners Build"
 version="1.0"
-url="url.to.build"
+url="https://www.dropbox.com/s/u43aqugje1p7n5x/Soonerbuild.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="18.9"
